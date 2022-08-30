@@ -1,0 +1,1 @@
+Olá, para dar inicio ao teste, é preciso copiar o código para conseguir utilizá-lo, em seguida, com ele no seu computador, coloque o número que deseja na função retornarResolucaoDoProblema() da linha 16, execute o código e veja o resultado no console de depuração.
