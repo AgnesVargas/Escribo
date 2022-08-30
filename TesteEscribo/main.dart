@@ -1,4 +1,4 @@
-executandoFuncao(int numero) {
+executarFuncao(int numero) {
   int armazenarSoma = 0;
 
   if (numero > 0) {
@@ -13,5 +13,5 @@ executandoFuncao(int numero) {
 }
 
 void main() {
-  executandoFuncao(10);
+  executarFuncao(10);
 }
